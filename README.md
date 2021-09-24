@@ -1,4 +1,4 @@
-# Facial Features Recognition
+# Facial-Detection-Using-OpenCV_and_Python
 A simple project to detect face and eyes using Haar cascade classifier.
 
 ## Requirements
